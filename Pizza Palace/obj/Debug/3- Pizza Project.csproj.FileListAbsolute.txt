@@ -1,0 +1,12 @@
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\bin\Debug\3- Pizza Project.exe.config
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\bin\Debug\3- Pizza Project.exe
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\bin\Debug\3- Pizza Project.pdb
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.csproj.AssemblyReference.cache
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\_3__Pizza_Project.frmMain.resources
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\_3__Pizza_Project.Properties.Resources.resources
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.csproj.GenerateResource.cache
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.csproj.CoreCompileInputs.cache
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.exe
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.pdb
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\3- Pizza Project.exe.config
+D:\Programming Advices Courses\مرحلة التأسيس الثانيه\Course 14  C# - Level 1\2- Windows Forms\3- Pizza Project\obj\Debug\_3__Pizza_Project.Form1.resources
